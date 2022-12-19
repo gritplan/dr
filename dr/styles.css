@@ -1,0 +1,41 @@
+.nav {
+    background-color: #858383;
+    height:32px;
+    width:100%;
+    box-shadow: inset 0 0 3px 2px #ddd;
+    text-indent: 10px;
+    position: relative;
+    top: 3px;
+    border: 2px solid grey
+}
+.search {
+    background-color: #e6e4e4;
+    height:110px;
+    width:100%;
+    text-align: left;
+    margin-top: 10px
+}
+.sticky_notes {
+    background-color: #c9c8c8
+}
+.container {
+    width: 900px;
+    height: 610px;
+    margin: 35px auto;
+}
+.main {
+    padding:10px 50px;
+    border:2px solid gray;
+    border-radius:10px;
+    float:left
+}
+h1 {
+    border: 0.1rem solid rgb(3, 0, 0);
+    border-radius: 2em;
+    padding: 0.1em;
+    width:13%
+}
+iframe{
+    border:none;
+    width:400px
+}
